@@ -23,7 +23,7 @@ Original file is located at
     unstructured-inference \
     pikepdf \
     pypdf \
-    faiss-gpu
+    faiss-gpu --quiet
 
 """# Presentation Layer Code
 
