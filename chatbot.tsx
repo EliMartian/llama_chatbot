@@ -6,7 +6,7 @@ const Chatbot = () => {
 
   const handleChatRequest = async () => {
     try {
-      const API_KEY = 'r8_5exZmvcPnXs9J1ItdXnN34ilTZ9X3A63s6m2h'; // Replace 'YOUR_API_KEY' with your actual API key
+      const API_KEY = 'YOUR_API_KEY';
       const userPrompt = `
         User: How can you tell when to buy a stock? I'm new to investing.
         Assistant: Hello! I'd be happy to help you with your question. However, before we dive into specifics, I want to point out that it's important to consult with a financial advisor or professional before making any investment decisions. They can provide personalized advice based on your individual circumstances and risk tolerance.
